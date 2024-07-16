@@ -1,0 +1,32 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Oreoluwa Williams"
+  navbar:
+    background: "#B01C33"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/oreoluwa-williams/
+      - icon: github
+        href: https://github.com/owilli04
+      - icon: file-pdf-fill
+        href: assets/Williams_Oreoluwa_Resume.pdf
+      
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+
