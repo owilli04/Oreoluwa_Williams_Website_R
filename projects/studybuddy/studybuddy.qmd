@@ -1,0 +1,20 @@
+---
+title: "Studdy Buddy"
+description: "A web application project designed to help Towson students find study groups & partners."
+
+date: May 9 2024
+about:
+  template: solana
+  image: cover.png
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/owilli04/cosc412_project/tree/main
+      target: _blank
+    - icon: laptop
+      text: Slides
+      href: studybuddy/StudyBuddy_Presentation.pptx
+      target: _blank
+---
+Study Buddy is a dedicated platform created only for Towson University students to better tailor to their needs. This creates a one stop app for study groups and allows communicating with classmates.
+By providing a centralized platform tailored to unique needs, this application aims to streamline the process of finding study groups or partners, thereby enhancing the collaborative learning experience. I was able to acquire knowledge of creating the front end using HTML, CSS, and JavaScript, and Firebase, which creates the backend database.

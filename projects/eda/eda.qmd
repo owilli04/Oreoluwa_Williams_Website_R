@@ -1,6 +1,6 @@
 ---
 title: "EDA Project"
-description: "EDA project on  understanding the structure of a dataset, generating and evaluating hypotheses using fundamental EDA and data visualization techniques to examine change in variables corresponding to COVID hospitalizations over time using R (programming language)."
+description: "EDA project to examine change in variables corresponding to COVID hospitalizations over time using R (programming language)."
 date: June 2024
 about:
   template: solana
@@ -9,7 +9,10 @@ about:
     - icon: github
       text: "GitHub"
       href: https://github.com/llch-24/project6-sure
+      target: _blank
     - icon: laptop
       text: Slides
       href: https://docs.google.com/presentation/d/1kFAGnRFc6f2Lj0_T7gQuzEniyNrSRzyOykI77Y5CqGo/edit#slide=id.p
+      target: _blank
 ---
+Practiced understanding the structure of a dataset, generating and evaluating hypotheses using fundamental EDA and data visualization techniques to examine change in variables corresponding to COVID hospitalizations over time.

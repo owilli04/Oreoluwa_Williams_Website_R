@@ -1,7 +1,7 @@
 ---
 title: "Capstone"
 description: "Capstone project on Modeling to see if Unemployment, high school completion rate and income inequality affect Premature Deaths for SURE 2024 at CMU."
-date: July 2024
+date: July 26 2024
 about:
   template: solana
   image: cover.jpg
@@ -9,15 +9,19 @@ about:
     - icon: google
       text: "Google drive"
       href: https://drive.google.com/drive/u/1/folders/1MSTnuYyDM2AXK2tlNWP-uYmfo55i5lxT
+      target: _blank
     - icon: laptop
       text: Slides
-      href: https://docs.google.com/presentation/d/1kFAGnRFc6f2Lj0_T7gQuzEniyNrSRzyOykI77Y5CqGo/edit#slide=id.p
-    - icon: filter-square-file
+      href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/premature_deaths/slides.pdf
+      target: _blank
+    - icon: filter-square
       text: Poster
-      href: https://docs.google.com/presentation/d/1MPjNamqT6nY6sCVYeWch6GTii5XvGjqBB4rJiFTQbyY/edit#slide=id.g2e183f6a93c_0_0
+      href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/premature_deaths/poster.pdf
+      target: _blank
     - icon: pencil
       text: Report
-      href: https://docs.google.com/document/d/15emNBYXY4qFmMNCSUxCO-rZtkloH-NhIx6BeoWrmrVw/edit
+      href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/premature_deaths/report.html
+      target: _blank
 ---
 
-Insert description down here
+Worked in a group of 4 to analyze Premature deaths focusing on the research topic "Do income inequality, unemployment and high school completion rates affect the number of premature deaths of certain racial groups at the county level?" working with County Health Rankings Data 2024. So we built EDA's and Modelling technique models to predict premature deaths.

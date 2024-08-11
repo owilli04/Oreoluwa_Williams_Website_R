@@ -1,0 +1,27 @@
+---
+title: "CareTrack"
+description: "A Nursing Home Database App for Autumn Lake Healthcare to monitor staff and patient activity to ensure the best possible management and care."
+
+date: May 14 2024
+about:
+  template: solana
+  image: cover.jpg
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/slwelsh/CareTrack
+      target: _blank
+    - icon: laptop
+      text: Slides
+      href: projects/careTrack/slides.pptx
+      target: _blank
+    - icon: file-earmark-post-fill
+      text: Flyer
+      href: projects/careTrack/flyer.pdf
+      target: _blank
+    - icon: pencil
+      text: Tutorial Manual
+      href: projects/careTrack/tutorial_manual.pdf
+      target: _blank
+---
+The Nursing Home Database Management System is a crucial tool for improving efficiency and streamlining operations in nursing homes. The CareTrack system provides an interface to this system from all users’ perspectives using MySQL Database running on a Google Cloud SQL Server with Java Swing and Java programming.. The nursing home staff, which includes doctors, nurses, and management staff, is one of the main user groups of the Nursing Home Database Management System. Nurses oversee giving patients direct care. Doctors diagnose patients, write prescriptions, and examine medical records using this system, guaranteeing that every patient receives thorough and well-coordinated care. Management personnel oversee monitoring overall facility operations, deploying resources efficiently, and making well-informed decisions about patient care and staffing.

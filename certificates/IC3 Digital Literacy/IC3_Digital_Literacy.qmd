@@ -1,0 +1,14 @@
+---
+title: "IC3 Digital Literacy"
+description: "Certificate"
+
+date: August 2023
+about:
+  template: solana
+  image: cover.png
+  links: 
+    - icon: laptop
+      text: Transcript
+      href: transcript.png
+      target: _blank
+---

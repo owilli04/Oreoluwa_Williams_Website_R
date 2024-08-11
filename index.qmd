@@ -7,13 +7,15 @@ about:
     - icon: envelope
       text: Email
       href: mailto:oreoluwa0304@gmail.com
+      target: _blank
     - icon: github
       text: Github
       href: https://github.com/owilli04
       target: _blank
     - icon: Linkedin
-      text: LinkedLn
+      text: LinkedIn
       href: https://www.linkedin.com/in/oreoluwa-williams/
+      target: _blank
 ---
 
-Welcome to my website! I am a Senior Undergraduate Student at Towson University, majoring in Computer Science with a minor in Mathematics. I am interested in Coding, Cybersecurity and Mathematics.
+Welcome to my website! I am a Senior Undergraduate Student at Towson University, majoring in Computer Science with a minor in Mathematics. I am interested in Web development, Cybersecurity, software developing and Mathematics.

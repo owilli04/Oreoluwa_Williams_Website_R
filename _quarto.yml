@@ -12,6 +12,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - certificates.qmd
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/oreoluwa-williams/
